@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-02-26T06:36:26.481Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-02-26T07:16:40.668Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -217,7 +217,7 @@
       },
       {
         "id": "55787c9c-d120-41a1-b4c7-a8b47d4901e5",
-        "name": "개별 테라스 바베큐",
+        "name": "개별 바베큐",
         "description": "프라이빗한 개별 바베큐를 즐겨보세요",
         "usageGuide": "- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A101, A102, A103, B101, B102, B103, C101, C102, C103\n\n[전기그릴]\n- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A201, A202, C201, C202",
         "displayOrder": 90,
