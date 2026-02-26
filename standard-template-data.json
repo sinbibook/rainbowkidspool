@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-02-26T01:53:07.540Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-02-26T03:28:40.072Z",
     "templateType": "full_banner_accordion",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -77,7 +77,71 @@
         "description": "프라이빗한 풀빌라를 즐겨보세요 ! ",
         "usageGuide": "- 운영시간 : 15시~22시\n- 운영객실 : A101, A102, A103, B101, B102, B103, C101, C102, C103\n- 미온수 이용요금 : 70,000원(1박당/현장결제)\n- 길이4.0m X 폭1.7m X 깊이1.0m\n- 미온수 온도 : 34~35도\n\n[수영장이용안내]\n※ 반드시 샤워 후에 이용해 주세요\n※ 수영장 이용 시 꼭 수영복을 착용하시기 바랍니다\n※ 유아를 동반한 보호자께서는 각별한 주의 바랍니다.\n※ 썬텐크림이나 오일은 몸에 바른 채로 입수할 수 없습니다.\n※ 다이빙은 절대 금지합니다.\n※ 음주 후에 입수는 불가하며, 수영장 내에서 뛰거나 고성방가는 금지합니다.\n※ 수영장 및 펜션에서 고객의 부주의로 일어난 안전사고에 대해서는 책임지지 않습니다.",
         "displayOrder": 88,
-        "images": []
+        "images": [
+          {
+            "id": "55bd5bde-bcdf-458f-8f23-f65d64c30d55",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-te5u41ty0g.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "aae12316-efa9-4353-a913-d159f16f46ff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980696-blp8z2asv4.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "275ccb68-fc2a-470a-9584-c33f30df4d19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-n2ftxx8j49g.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d3240eaa-da63-4e08-9bed-d5a36632ee76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-ygvvtqsptri.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7bdc7bdb-0b6d-478b-956b-fba6022098c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980698-c98gi3zs6js.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "345138bb-91ec-49c2-a38e-b93509eb814a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-xzrw5gw0jl.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "47590e12-63fe-4215-9975-e9d1f402d12b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980698-ny6gh0b2h69.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a2a8c65d-df76-416f-88ab-beb5994706bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980695-yz0nh93wce.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1287d6e7-47dc-4b0f-a452-13181014f599",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-mj4ubxd7fqm.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "34483db2-a5af-4bff-931d-c7ce574fd155",
@@ -85,7 +149,71 @@
         "description": "기분좋은 스파를 즐겨보세요 ! ",
         "usageGuide": "- 운영시간 : 15시~22시\n- 운영객실 : A101, A103, A201, A202, B101, B103, C101, C103, C201, C202\n※ 사용가능한 입욕제는 현장에서 무료 제공\n※ 알갱이나 금가루 들어간 입욕제 절대금지",
         "displayOrder": 89,
-        "images": []
+        "images": [
+          {
+            "id": "9709fdd0-4d56-40bf-b1ab-6575159bc8d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-7iztujrl27.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e28a9a24-13a2-41a3-8133-ebc62455d8ee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-xvlbshe4al.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fbd09155-26bf-4afb-99b6-32ce74ffc63d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-6fib1k9k4s5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0941fe47-7f9b-4699-9458-28dd95dfc27c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-elohculd2q.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6fc4f867-6a70-45c6-9f6d-eb0769d88089",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902987-ehfvwr46joc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dbcef2b0-ec65-4d20-9a7a-29a780fadec2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902987-huxme2tecnt.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "430b168f-fd9b-48cf-aa26-2742329940e7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-2bzcesc0twj.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "69f2c4e2-a13b-47be-a777-f1c23982f571",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-rovv3dirci.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f65a8734-00c1-4481-8fed-bb439653b1a1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-ba8nyi5aup.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "55787c9c-d120-41a1-b4c7-a8b47d4901e5",
@@ -93,7 +221,43 @@
         "description": "프라이빗한 개별 바베큐를 즐겨보세요",
         "usageGuide": "- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A101, A102, A103, B101, B102, B103, C101, C102, C103\n\n[전기그릴]\n- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A201, A202, C201, C202",
         "displayOrder": 90,
-        "images": []
+        "images": [
+          {
+            "id": "88ea3fcc-30cb-4208-8501-5b2a79ad3c70",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-zr85fm0h2b.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b188a0a6-74f4-4c44-a811-7b6d1347e236",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-8rp1c3nwg7x.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "100ce790-5439-4d44-b2f5-a2c783526637",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-3ass8cnov0t.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8b116c05-adc9-4982-af46-a4dad2ee44f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-mj8zydpvpxq.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "abed5976-f413-45eb-93ff-c4b492d1ddbe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-2y36ucl5231.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1102,12 +1266,20 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "27a46bf9-7539-46b6-af45-a578759da266",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/directions_hero/1772076513980-2devmuaqag.jpg",
+                    "sortOrder": 0,
+                    "description": " ",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": " "
               }
             }
           ]
@@ -1128,7 +1300,46 @@
                 ],
                 "description": "아이와 함께 머물기 좋은 키즈 풀빌라, 레인보우 풀빌라.\n객실 내 놀이공간이 마련되어 있어 아이들도 안전하게 즐길 수 있습니다.\n전 객실 오션뷰로 어디에서나 바다를 마주하는 특별한 하루.\n야외 수영장에서 시원한 물놀이를 즐기며 여유를 만끽하세요.\n실내 스파 시설이 준비되어 사계절 내내 편안한 휴식이 가능합니다.\n개별 바베큐 공간이 마련되어 프라이빗한 식사 시간을 보낼 수 있습니다.\n가족 여행에 필요한 공간과 편의시설을 모두 갖춘 풀빌라.\n아이와 어른 모두가 만족하는 거제의 특별한 휴식 공간입니다."
               },
-              "about": []
+              "about": [
+                {
+                  "title": "객실 내 키즈 놀이공간",
+                  "images": [
+                    {
+                      "id": "22e9453f-181c-4cfa-808d-c9f2fbdfac85",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/main_about/1772074922608-9lywlqecdnb.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "41eb498e-2aa8-44e6-aa7c-f357f7dcaa26"
+                    }
+                  ],
+                  "blockId": "41eb498e-2aa8-44e6-aa7c-f357f7dcaa26",
+                  "description": "각 객실마다 어린이 전용 놀이공간이 마련되어 있습니다.\n아이들이 안전하게 뛰어놀 수 있어 부모님도 더욱 편안한 시간.\n온 가족이 함께 웃으며 즐기는 가족 맞춤형 공간입니다."
+                },
+                {
+                  "title": "전 객실 오션뷰",
+                  "images": [
+                    {
+                      "id": "2ad9fa49-eb78-468f-90b6-c0fd06259347",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/main_about/1772075661650-kku2h00sfi.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8d5522b7-7d8c-4b5a-8f5f-965360704a2c"
+                    },
+                    {
+                      "id": "0a7f81aa-da15-4237-b6c6-8cfb16503dbb",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/main_about/1772074922609-q0ntdllhtf.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8d5522b7-7d8c-4b5a-8f5f-965360704a2c"
+                    }
+                  ],
+                  "blockId": "8d5522b7-7d8c-4b5a-8f5f-965360704a2c",
+                  "description": "모든 객실에서 바다를 마주하는 특별한 하루\n넓게 펼쳐진 전망이 공간의 개방감을 더합니다.\n일상에서 벗어나 여유로운 힐링을 경험해보세요"
+                }
+              ]
             }
           ]
         },
@@ -1138,13 +1349,21 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "3d4faf75-2cb6-4ecf-af78-3e78b01b4db7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/reservation_hero/1772076513980-3do5r92hyem.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
