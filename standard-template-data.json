@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-02-25T03:39:40.396Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-02-26T01:53:07.540Z",
     "templateType": "full_banner_accordion",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -938,7 +938,7 @@
   ],
   "homepage": {
     "domain": "rainbowkidspool.kr",
-    "templateType": "full_banner_accordion",
+    "templateType": "full_banner_conveyer",
     "images": [
       {
         "logo": []
@@ -1011,7 +1011,7 @@
                 "description": " "
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "9b93ce4c-6df2-473e-8b6f-bb07a07bd20a",
@@ -1020,7 +1020,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
                 "title": "Rainbow kids poolvilla",
@@ -1038,12 +1039,19 @@
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "c400cc1b-dc85-49e8-ae5b-6705e6126d17",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1772070782188-gxmj6n0q8x5.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
                   }
                 ],
                 "description": "ㅎㅎㅎ"
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "0727b2a7-84a1-4c85-80dd-bcf8e36cb046",
@@ -1080,7 +1088,8 @@
                     "description": "개별 바베큐",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "signature": {
                 "title": "",
@@ -1159,10 +1168,10 @@
             "family": "Sour Gummy"
           },
           "koMain": {
-            "cdn": "https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css",
-            "key": "maruburi",
-            "woff2": null,
-            "family": "MaruBuri"
+            "cdn": null,
+            "key": "kccdodamdodam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-DodamdodamR.woff2",
+            "family": "KccDodamdodam"
           }
         },
         "color": {
