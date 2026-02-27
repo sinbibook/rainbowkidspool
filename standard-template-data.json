@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-02-26T08:17:29.469Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-02-27T03:39:08.276Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -237,6 +237,20 @@
             "isSelected": true
           },
           {
+            "id": "abed5976-f413-45eb-93ff-c4b492d1ddbe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-2y36ucl5231.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8b116c05-adc9-4982-af46-a4dad2ee44f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-mj8zydpvpxq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "id": "100ce790-5439-4d44-b2f5-a2c783526637",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-3ass8cnov0t.jpg",
             "sortOrder": 0,
@@ -244,16 +258,9 @@
             "isSelected": true
           },
           {
-            "id": "8b116c05-adc9-4982-af46-a4dad2ee44f3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-mj8zydpvpxq.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "abed5976-f413-45eb-93ff-c4b492d1ddbe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-2y36ucl5231.jpg",
-            "sortOrder": 1,
+            "id": "b678a556-f0c3-4c22-bc87-8b04ec00831e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772093769542-ppwn9uqnzt.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -1182,7 +1189,7 @@
                 "description": " "
               },
               "closing": {
-                "title": " ",
+                "title": "",
                 "images": [
                   {
                     "id": "9b93ce4c-6df2-473e-8b6f-bb07a07bd20a",
@@ -1192,7 +1199,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": ""
               },
               "essence": {
                 "title": "Rainbow kids poolvilla",
@@ -1215,20 +1222,6 @@
                     "id": "89842d98-8f03-47ed-b6ff-4b00567a7ce5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1771988199560-0oc5dvvahy9d.jpg",
                     "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "7b04e1a8-5190-43c6-a602-9e4fa838ab7f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1772076853380-ffwy7gkhf7.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "15a609df-2e59-4bca-b111-84ea1043a24a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1772076853380-p3rbswmsofa.jpg",
-                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
@@ -1267,16 +1260,9 @@
                     "isSelected": true
                   },
                   {
-                    "id": "07d3749d-7f0f-413b-8b82-faea90fb5ac6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-75mdyxtw6ry.jpg",
-                    "sortOrder": 4,
-                    "description": "단독 야외 풀장",
-                    "isSelected": true
-                  },
-                  {
                     "id": "cfc3aec7-95a4-4ef6-bca0-47e00a15b45d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-90af61mb25d.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "개별 바베큐",
                     "isSelected": true
                   }
