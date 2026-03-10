@@ -4,15 +4,15 @@
 
 /* Font Faces */
 @font-face {
-  font-family: 'KccDodamdodam';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-DodamdodamR.woff2') format('woff2');
+  font-family: 'ImHyeMin';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'KccDodamdodam', sans-serif;
+  --font-ko-main: 'ImHyeMin', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Sour Gummy', sans-serif;
   --color-primary: #FFFFFF;
