@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-03-10T08:43:30.645Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-03-10T08:48:50.349Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -1279,10 +1279,10 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": "아이들의 웃음과 바다의 여유가 함께하는 프라이빗 키즈 풀빌라"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "9b93ce4c-6df2-473e-8b6f-bb07a07bd20a",
@@ -1292,7 +1292,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "essence": {
                 "title": "Rainbow kids poolvilla",
@@ -1507,9 +1507,9 @@
           },
           "koMain": {
             "cdn": null,
-            "key": "kccdodamdodam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-DodamdodamR.woff2",
-            "family": "KccDodamdodam"
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
           }
         },
         "color": {
