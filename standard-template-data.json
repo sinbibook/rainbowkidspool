@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-03-10T08:48:50.349Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-03-16T06:04:39.885Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -410,7 +410,7 @@
     ],
     "nameEn": "Geoje Rainbow Kids Pool Villa",
     "domain": "rainbowkidspool.kr",
-    "realtimeBookingId": "11051",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11051",
     "ybsId": "79577"
   },
   "rooms": [
