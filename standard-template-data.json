@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-03-17T08:29:03.320Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-03-20T00:24:04.288Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -478,8 +478,8 @@
     {
       "id": "d9e09dc4-ace9-41de-9978-a73a56dec2da",
       "name": "A102 (정글짐,개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
@@ -487,7 +487,7 @@
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
-        "bathroom": 1,
+        "bathroom": 2,
         "livingRoom": 0
       },
       "bedTypes": [
@@ -776,8 +776,8 @@
     {
       "id": "4ac5c07f-6670-4403-9727-44b67e5bdb81",
       "name": "B102 (정글짐, 개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 89.26,
@@ -785,7 +785,7 @@
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
-        "bathroom": 1,
+        "bathroom": 2,
         "livingRoom": 0
       },
       "bedTypes": [
@@ -1019,8 +1019,8 @@
     {
       "id": "c558b1f8-86fc-40c0-bd45-2bdb7f69e87d",
       "name": "C102 (정글짐, 개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
@@ -1028,7 +1028,7 @@
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
-        "bathroom": 1,
+        "bathroom": 2,
         "livingRoom": 0
       },
       "bedTypes": [
@@ -4189,6 +4189,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "761a3676-8f56-4ecc-8cbd-155f180008c5"
   }
 }
