@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-03-27T05:08:32.811Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-04-15T03:12:35.608Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -416,18 +416,35 @@
   "rooms": [
     {
       "id": "5b7ee1e3-d381-4538-95d9-c7b24a205559",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A101 (정글짐,개별수영장,테라스,스파)",
+      "nameEn": "A101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -466,6 +483,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -473,22 +491,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 0,
+      "createdAt": "2026-02-11T07:37:46.558Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "d9e09dc4-ace9-41de-9978-a73a56dec2da",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A102 (정글짐,개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "nameEn": "A102",
+      "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
+      "sizePyeong": 22,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -522,10 +561,11 @@
         "오션뷰"
       ],
       "roomStructures": [
-        "복층",
-        "테라스"
+        "테라스",
+        "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -533,22 +573,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 1,
+      "createdAt": "2026-02-11T07:37:46.510Z",
+      "updatedAt": "2026-04-15T03:11:47.177Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "fd00f540-11b4-4bfb-b325-7035128c2c8c",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A103 (정글짐,개별수영장,테라스,스파)",
+      "nameEn": "A103",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -587,6 +648,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -594,22 +656,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 2,
+      "createdAt": "2026-02-11T07:37:46.662Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "397ab4e4-9be7-4504-8e30-09ddce01fdf2",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A201 (오션뷰스파,패밀리침대,복층)",
+      "nameEn": "A201",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -645,6 +728,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -652,22 +736,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 3,
+      "createdAt": "2026-02-11T07:37:46.589Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "5bbd5171-2417-414b-99dc-3404b0e180c7",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A202 (오션뷰스파,패밀리침대,복층)",
+      "nameEn": "A202",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -703,6 +808,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -710,22 +816,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 4,
+      "createdAt": "2026-02-11T07:37:46.514Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "d510b7c5-b938-4d67-9247-1edf107bd17f",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B101 (정글짐, 개별수영장,테라스,스파)",
+      "nameEn": "B101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -764,6 +891,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -771,22 +899,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 5,
+      "createdAt": "2026-02-11T07:37:46.684Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "4ac5c07f-6670-4403-9727-44b67e5bdb81",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B102 (정글짐, 개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "nameEn": "B102",
+      "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 89.26,
+      "sizePyeong": 27,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -820,10 +969,11 @@
         "오션뷰"
       ],
       "roomStructures": [
-        "복층",
-        "테라스"
+        "테라스",
+        "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -831,22 +981,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 6,
+      "createdAt": "2026-02-11T07:37:46.569Z",
+      "updatedAt": "2026-04-15T03:12:08.355Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "05f72baa-3b16-4ddb-a6f5-6b48c442bb80",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B103 (정글짐, 개별수영장,테라스,스파)",
+      "nameEn": "B103",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐 ",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐 ",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -885,6 +1056,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -892,22 +1064,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 7,
+      "createdAt": "2026-02-11T07:37:46.517Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "dc3b8486-575a-4f67-8286-97c58be75b86",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C101 (정글짐, 개별수영장,테라스,스파)",
+      "nameEn": "C101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -946,6 +1139,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -953,83 +1147,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
-    },
-    {
-      "id": "40fa728c-e68b-4bf7-b6ce-a2fb0ca0ab0b",
-      "name": "C103 (정글짐, 개별수영장,테라스,스파)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
-      "usageGuide": "",
-      "group": null,
-      "size": 66.12,
-      "baseOccupancy": 4,
-      "maxOccupancy": 6,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0
-      },
-      "bedTypes": [
-        "퀸 베드"
-      ],
-      "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
-        "전자레인지",
-        "헤어드라이어",
-        "인덕션",
-        "가스레인지",
-        "전기밥솥",
-        "조리도구",
-        "전기포트",
-        "정수기",
-        "화장실",
-        "비데",
-        "스파",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "유아의자",
-        "개별바비큐",
-        "풀빌라",
-        "금연"
-      ],
-      "roomViews": [
-        "오션뷰"
-      ],
-      "roomStructures": [
-        "복층",
-        "테라스"
-      ],
-      "status": "active",
-      "images": [
-        {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
-        }
-      ],
-      "displayOrder": 10
+      "displayOrder": 8,
+      "createdAt": "2026-02-11T07:37:46.596Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "c558b1f8-86fc-40c0-bd45-2bdb7f69e87d",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C102 (정글짐, 개별수영장,테라스)",
-      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "nameEn": "C102",
+      "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
+      "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
+      "sizePyeong": 22,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1063,10 +1217,94 @@
         "오션뷰"
       ],
       "roomStructures": [
+        "테라스",
+        "침실분리형"
+      ],
+      "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 9,
+      "createdAt": "2026-02-11T07:37:46.610Z",
+      "updatedAt": "2026-04-15T03:12:22.968Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+    },
+    {
+      "id": "40fa728c-e68b-4bf7-b6ce-a2fb0ca0ab0b",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
+      "name": "C103 (정글짐, 개별수영장,테라스,스파)",
+      "nameEn": "C103",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
+      "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "sizePyeong": 20,
+      "baseOccupancy": 4,
+      "maxOccupancy": 6,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "테라스",
+        "무료 WiFi",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "전자레인지",
+        "헤어드라이어",
+        "인덕션",
+        "가스레인지",
+        "전기밥솥",
+        "조리도구",
+        "전기포트",
+        "정수기",
+        "화장실",
+        "비데",
+        "스파",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "유아의자",
+        "개별바비큐",
+        "풀빌라",
+        "금연"
+      ],
+      "roomViews": [
+        "오션뷰"
+      ],
+      "roomStructures": [
         "복층",
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -1074,22 +1312,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 10,
+      "createdAt": "2026-02-11T07:37:46.657Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "f37b0cef-6616-427b-baa1-0655360fdbea",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C201 (오션뷰스파,패밀리침대,복층)",
+      "nameEn": "C201",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1125,6 +1384,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -1132,22 +1392,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 12
+      "displayOrder": 11,
+      "createdAt": "2026-02-11T07:37:46.692Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "166dec60-3f06-4e64-a3c5-bc07ea6812ab",
+      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
+      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C202 (오션뷰스파,패밀리침대,복층)",
+      "nameEn": "C202",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1183,6 +1464,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
       "images": [
         {
           "thumbnail": [],
@@ -1190,7 +1472,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 12,
+      "createdAt": "2026-02-11T07:37:46.665Z",
+      "updatedAt": "2026-03-31T04:00:10.925Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     }
   ],
   "homepage": {
@@ -1279,7 +1565,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "아이들의 웃음과 바다의 여유가 함께하는 프라이빗 키즈 풀빌라"
+                "description": "아이들의 웃음과 바다의 여유가 함께하는 프라이빗 키즈 풀빌라",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " ",
@@ -1292,7 +1580,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "Rainbow kids poolvilla",
@@ -1319,7 +1609,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "아이와 함께 머물기 좋은 키즈 풀빌라, 레인보우 풀빌라\n전 객실 내 놀이공간과 오션뷰를 즐기며, \n야외 수영장과 실내 스파 객실을 갖춘 공간\n개별 바베큐가 가능한 거제의 프라이빗 가족 풀빌라입니다."
+                "description": "아이와 함께 머물기 좋은 키즈 풀빌라, 레인보우 풀빌라\n전 객실 내 놀이공간과 오션뷰를 즐기며, \n야외 수영장과 실내 스파 객실을 갖춘 공간\n개별 바베큐가 가능한 거제의 프라이빗 가족 풀빌라입니다.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "Preview",
@@ -1360,11 +1652,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "다양한 키즈 놀이공간과 야외 수영장을 갖춘 가족 맞춤 키즈 풀빌라.\n오션뷰와 실내 스파까지 즐길 수 있는 휴식 공간입니다."
+                "description": "다양한 키즈 놀이공간과 야외 수영장을 갖춘 가족 맞춤 키즈 풀빌라.\n오션뷰와 실내 스파까지 즐길 수 있는 휴식 공간입니다.",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -4189,6 +4485,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "761a3676-8f56-4ecc-8cbd-155f180008c5"
   }
 }
