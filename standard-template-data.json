@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.34.0",
-    "generatedAt": "2026-04-15T03:12:35.608Z",
+    "version": "1.35.0",
+    "generatedAt": "2026-05-18T05:37:02.170915336Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -35,7 +35,7 @@
       "맛집",
       "수상스포츠"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "오션뷰",
       "힐링",
@@ -53,7 +53,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박및음식점업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -79,67 +80,76 @@
         "displayOrder": 88,
         "images": [
           {
-            "id": "55bd5bde-bcdf-458f-8f23-f65d64c30d55",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-te5u41ty0g.jpg",
-            "sortOrder": 8,
+            "id": "a2a8c65d-df76-416f-88ab-beb5994706bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980695-yz0nh93wce.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "aae12316-efa9-4353-a913-d159f16f46ff",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980696-blp8z2asv4.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "275ccb68-fc2a-470a-9584-c33f30df4d19",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-n2ftxx8j49g.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "d3240eaa-da63-4e08-9bed-d5a36632ee76",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-ygvvtqsptri.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "7bdc7bdb-0b6d-478b-956b-fba6022098c7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980698-c98gi3zs6js.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "345138bb-91ec-49c2-a38e-b93509eb814a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-xzrw5gw0jl.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "47590e12-63fe-4215-9975-e9d1f402d12b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980698-ny6gh0b2h69.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "a2a8c65d-df76-416f-88ab-beb5994706bb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980695-yz0nh93wce.jpg",
-            "sortOrder": 0,
+            "id": "7bdc7bdb-0b6d-478b-956b-fba6022098c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980698-c98gi3zs6js.jpg",
+            "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1287d6e7-47dc-4b0f-a452-13181014f599",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-mj4ubxd7fqm.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "275ccb68-fc2a-470a-9584-c33f30df4d19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-n2ftxx8j49g.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d3240eaa-da63-4e08-9bed-d5a36632ee76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-ygvvtqsptri.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "345138bb-91ec-49c2-a38e-b93509eb814a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-xzrw5gw0jl.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "55bd5bde-bcdf-458f-8f23-f65d64c30d55",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7525586-d985-4fea-a47e-2dac32a52dc7/main/1772070980699-te5u41ty0g.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -151,67 +161,76 @@
         "displayOrder": 89,
         "images": [
           {
-            "id": "9709fdd0-4d56-40bf-b1ab-6575159bc8d2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-7iztujrl27.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e28a9a24-13a2-41a3-8133-ebc62455d8ee",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-xvlbshe4al.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "fbd09155-26bf-4afb-99b6-32ce74ffc63d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-6fib1k9k4s5.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0941fe47-7f9b-4699-9458-28dd95dfc27c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-elohculd2q.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "6fc4f867-6a70-45c6-9f6d-eb0769d88089",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902987-ehfvwr46joc.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "dbcef2b0-ec65-4d20-9a7a-29a780fadec2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902987-huxme2tecnt.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "430b168f-fd9b-48cf-aa26-2742329940e7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-2bzcesc0twj.jpg",
-            "sortOrder": 8,
+            "id": "fbd09155-26bf-4afb-99b6-32ce74ffc63d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-6fib1k9k4s5.jpg",
+            "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "69f2c4e2-a13b-47be-a777-f1c23982f571",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-rovv3dirci.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "f65a8734-00c1-4481-8fed-bb439653b1a1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-ba8nyi5aup.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e28a9a24-13a2-41a3-8133-ebc62455d8ee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-xvlbshe4al.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0941fe47-7f9b-4699-9458-28dd95dfc27c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-elohculd2q.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9709fdd0-4d56-40bf-b1ab-6575159bc8d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-7iztujrl27.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "430b168f-fd9b-48cf-aa26-2742329940e7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/34483db2-a5af-4bff-931d-c7ce574fd155/main/1772072902988-2bzcesc0twj.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -223,63 +242,57 @@
         "displayOrder": 90,
         "images": [
           {
-            "id": "88ea3fcc-30cb-4208-8501-5b2a79ad3c70",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-zr85fm0h2b.jpg",
-            "sortOrder": 3,
+            "id": "b678a556-f0c3-4c22-bc87-8b04ec00831e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772093769542-ppwn9uqnzt.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b188a0a6-74f4-4c44-a811-7b6d1347e236",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-8rp1c3nwg7x.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "abed5976-f413-45eb-93ff-c4b492d1ddbe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-2y36ucl5231.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8b116c05-adc9-4982-af46-a4dad2ee44f3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-mj8zydpvpxq.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "100ce790-5439-4d44-b2f5-a2c783526637",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-3ass8cnov0t.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "b678a556-f0c3-4c22-bc87-8b04ec00831e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772093769542-ppwn9uqnzt.jpg",
-            "sortOrder": 0,
+            "id": "abed5976-f413-45eb-93ff-c4b492d1ddbe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632887-2y36ucl5231.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8b116c05-adc9-4982-af46-a4dad2ee44f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-mj8zydpvpxq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "88ea3fcc-30cb-4208-8501-5b2a79ad3c70",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-zr85fm0h2b.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b188a0a6-74f4-4c44-a811-7b6d1347e236",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/55787c9c-d120-41a1-b4c7-a8b47d4901e5/main/1772073632888-8rp1c3nwg7x.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
     ],
     "refundPolicies": [
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
-      },
-      {
-        "refundProcessingDays": 8,
-        "refundRate": 80
-      },
-      {
-        "refundProcessingDays": 7,
-        "refundRate": 70
-      },
       {
         "refundProcessingDays": 6,
         "refundRate": 60
@@ -307,6 +320,18 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
       }
     ],
     "refundSettings": {
@@ -322,110 +347,118 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/thumbnail/1773047889763-u6ick17rcgf.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
           {
-            "id": "e551abb1-93f0-495b-9540-a0ac95879d67",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-4utlqnzj4rw.jpg",
-            "sortOrder": 7,
+            "id": "6807a6b7-8934-4bd2-b034-43c8d41e60d3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-peynnf0q5qn.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8119dd46-8384-41a3-b1bf-ab6d95aa27a1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-tjkfv8yl07g.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "22241cb8-635b-49d1-ab02-7694a12209ab",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-zwzapi7as.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "c823b321-2a43-4441-8729-93eaaa92dd0d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-uf6zg8dhbwd.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "a30b59a6-e7af-44e1-b02b-befb833d0430",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-hgxbfwy0aap.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "9d99cb83-9059-4a55-8da6-cbdae258a647",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-133a124k00p.jpg",
-            "sortOrder": 6,
+            "id": "8119dd46-8384-41a3-b1bf-ab6d95aa27a1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-tjkfv8yl07g.jpg",
+            "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ccaeb6e1-5908-4002-b1a5-c230c78b54d8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-nvzh86lk29h.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "330f1c4f-6499-4f32-a9d0-59b3c256e4c6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-qlkz6delhac.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "aaba2471-810a-4ff6-ad44-b20c9f266c58",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-ohpmsgmr5yd.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c823b321-2a43-4441-8729-93eaaa92dd0d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-uf6zg8dhbwd.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9d99cb83-9059-4a55-8da6-cbdae258a647",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-133a124k00p.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e551abb1-93f0-495b-9540-a0ac95879d67",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-4utlqnzj4rw.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "4c4826fd-3053-4327-aa1c-7017c771bfac",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-v8qa1nib6zn.jpg",
             "sortOrder": 8,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "6807a6b7-8934-4bd2-b034-43c8d41e60d3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889763-peynnf0q5qn.jpg",
-            "sortOrder": 1,
+            "id": "330f1c4f-6499-4f32-a9d0-59b3c256e4c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-qlkz6delhac.jpg",
+            "sortOrder": 9,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "22241cb8-635b-49d1-ab02-7694a12209ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/cdac4359-7866-4ee6-a41d-9ca07d571e25/exterior/1773047889764-zwzapi7as.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ],
     "nameEn": "Geoje Rainbow Kids Pool Villa",
     "domain": "rainbowkidspool.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11051",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1695951896",
     "ybsId": "79577"
   },
   "rooms": [
     {
       "id": "5b7ee1e3-d381-4538-95d9-c7b24a205559",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A101 (정글짐,개별수영장,테라스,스파)",
-      "nameEn": "A101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -435,20 +468,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -483,32 +506,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 0,
-      "createdAt": "2026-02-11T07:37:46.558Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 0
     },
     {
       "id": "d9e09dc4-ace9-41de-9978-a73a56dec2da",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A102 (정글짐,개별수영장,테라스)",
-      "nameEn": "A102",
       "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
-      "sizePyeong": 22,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -518,20 +543,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -565,32 +580,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-02-11T07:37:46.510Z",
-      "updatedAt": "2026-04-15T03:11:47.177Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "fd00f540-11b4-4bfb-b325-7035128c2c8c",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A103 (정글짐,개별수영장,테라스,스파)",
-      "nameEn": "A103",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -600,20 +617,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -648,32 +655,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-02-11T07:37:46.662Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "397ab4e4-9be7-4504-8e30-09ddce01fdf2",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A201 (오션뷰스파,패밀리침대,복층)",
-      "nameEn": "A201",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -683,20 +692,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -728,32 +727,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-02-11T07:37:46.589Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     },
     {
       "id": "5bbd5171-2417-414b-99dc-3404b0e180c7",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "A202 (오션뷰스파,패밀리침대,복층)",
-      "nameEn": "A202",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -763,20 +764,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -808,32 +799,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-02-11T07:37:46.514Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 4
     },
     {
       "id": "d510b7c5-b938-4d67-9247-1edf107bd17f",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B101 (정글짐, 개별수영장,테라스,스파)",
-      "nameEn": "B101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -843,20 +836,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -891,32 +874,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-02-11T07:37:46.684Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 5
     },
     {
       "id": "4ac5c07f-6670-4403-9727-44b67e5bdb81",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B102 (정글짐, 개별수영장,테라스)",
-      "nameEn": "B102",
       "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 89.26,
-      "sizePyeong": 27,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -926,20 +911,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -973,32 +948,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-02-11T07:37:46.569Z",
-      "updatedAt": "2026-04-15T03:12:08.355Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 6
     },
     {
       "id": "05f72baa-3b16-4ddb-a6f5-6b48c442bb80",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "B103 (정글짐, 개별수영장,테라스,스파)",
-      "nameEn": "B103",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐 ",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐 ",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1008,20 +985,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1056,32 +1023,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-02-11T07:37:46.517Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 7
     },
     {
       "id": "dc3b8486-575a-4f67-8286-97c58be75b86",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C101 (정글짐, 개별수영장,테라스,스파)",
-      "nameEn": "C101",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1091,20 +1060,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1139,32 +1098,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-02-11T07:37:46.596Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 8
     },
     {
       "id": "c558b1f8-86fc-40c0-bd45-2bdb7f69e87d",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C102 (정글짐, 개별수영장,테라스)",
-      "nameEn": "C102",
       "description": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대2)+주방1+화장실2+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 72.73,
-      "sizePyeong": 22,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -1174,20 +1135,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1221,32 +1172,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-02-11T07:37:46.610Z",
-      "updatedAt": "2026-04-15T03:12:22.968Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 9
     },
     {
       "id": "40fa728c-e68b-4bf7-b6ce-a2fb0ca0ab0b",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C103 (정글짐, 개별수영장,테라스,스파)",
-      "nameEn": "C103",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
-      "sizePyeong": 20,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1256,20 +1209,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1304,32 +1247,34 @@
         "테라스"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-02-11T07:37:46.657Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 10
     },
     {
       "id": "f37b0cef-6616-427b-baa1-0655360fdbea",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C201 (오션뷰스파,패밀리침대,복층)",
-      "nameEn": "C201",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1339,20 +1284,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1384,32 +1319,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-02-11T07:37:46.692Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 11
     },
     {
       "id": "166dec60-3f06-4e64-a3c5-bc07ea6812ab",
-      "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
-      "propertyName": "거제 레인보우키즈풀빌라",
       "name": "C202 (오션뷰스파,패밀리침대,복층)",
-      "nameEn": "C202",
       "description": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바베큐",
       "usageGuide": "",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1419,20 +1356,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "Y"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1464,19 +1391,25 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "86238aa1-52a9-4375-a312-75959174ec0d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-02-11T07:37:46.665Z",
-      "updatedAt": "2026-03-31T04:00:10.925Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 12
     }
   ],
   "homepage": {
@@ -1484,7 +1417,7 @@
     "templateType": "full_banner_conveyer",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -1492,7 +1425,12 @@
       "description": "탁 트인 바다 전망과 프라이빗 풀을 동시에 누리는 거제 레인보우 풀빌라",
       "keywords": "거제레인보우풀빌라,거제풀빌라,거제오션뷰숙소,프라이빗풀빌라,거제여행"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1506,68 +1444,76 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1772779228856-j03b7p2n28.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b97d7e63-4ef3-4a89-8177-50c6e7862b7e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1771986432177-uxcgsolp8r.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f1b989fa-930e-477b-8b71-fad0cfde450e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1772777249434-qcc7ew0zjw.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "89b0c8b8-4fe7-49c5-acf1-522a0ea0c6d7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1772777249434-jlyopgauw39.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8dba1923-688b-462a-a051-16ffb3715074",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1771986432177-nbwl8nxp6t.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4853d897-b51b-40ab-a74f-b38bf00c5e7f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1771986432177-r6r1u3jk3co.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "989f8b2b-c8a6-42c9-8433-1b8845470bf0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1771986432177-p41tmwnvy9p.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c0b7e22f-ca2b-4e85-a814-db823aa607f1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1771986432177-ba726crlh6g.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f7edf2da-0ddb-4e6f-a18d-d4d85c3be530",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_hero/1772509112673-3d6b8he0woz.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "아이들의 웃음과 바다의 여유가 함께하는 프라이빗 키즈 풀빌라",
-                "mediaType": "image",
-                "videos": []
+                "videos": [ ]
               },
               "closing": {
                 "title": " ",
@@ -1577,12 +1523,12 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_closing/1771988199560-5pksrpagvns.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": " ",
-                "mediaType": "image",
-                "videos": []
+                "videos": [ ]
               },
               "essence": {
                 "title": "Rainbow kids poolvilla",
@@ -1592,26 +1538,28 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1772070782188-gxmj6n0q8x5.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "89842d98-8f03-47ed-b6ff-4b00567a7ce5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1771988199560-0oc5dvvahy9d.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "293ad05f-0a10-43c3-a7e6-1b60badf1083",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_essence/1772509112674-ox89f4jxqdi.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "아이와 함께 머물기 좋은 키즈 풀빌라, 레인보우 풀빌라\n전 객실 내 놀이공간과 오션뷰를 즐기며, \n야외 수영장과 실내 스파 객실을 갖춘 공간\n개별 바베큐가 가능한 거제의 프라이빗 가족 풀빌라입니다.",
-                "mediaType": "image",
-                "videos": []
+                "videos": [ ]
               },
               "gallery": {
                 "title": "Preview",
@@ -1621,46 +1569,49 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1772093017170-g1z5xp0pknd.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0727b2a7-84a1-4c85-80dd-bcf8e36cb046",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-0tglqffk4vr9.jpg",
                     "sortOrder": 1,
                     "description": "Spa",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "e8b6ebf1-96e1-4ac8-9e9c-82de2c3cf0bc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-smws88b5s8k.jpg",
                     "sortOrder": 2,
                     "description": "아이들 놀이공간",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5af81523-09fe-4fb4-a9dd-446304e7b7df",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-cfypdqcemqd.jpg",
                     "sortOrder": 3,
                     "description": "전 객실 오션뷰",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "cfc3aec7-95a4-4ef6-bca0-47e00a15b45d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/index_gallery/1771988199560-90af61mb25d.jpg",
                     "sortOrder": 4,
                     "description": "개별 바베큐",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "다양한 키즈 놀이공간과 야외 수영장을 갖춘 가족 맞춤 키즈 풀빌라.\n오션뷰와 실내 스파까지 즐길 수 있는 휴식 공간입니다.",
-                "mediaType": "image",
-                "videos": []
+                "videos": [ ]
               },
               "signature": {
                 "title": "",
-                "images": [],
-                "mediaType": "image",
-                "videos": []
+                "images": [ ],
+                "videos": [ ]
               }
             }
           ]
@@ -1676,7 +1627,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/directions_hero/1772076513980-2devmuaqag.jpg",
                     "sortOrder": 0,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1698,7 +1650,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/main_hero/1772093293447-ml3xboy81p.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "아이와 함께 머물기 좋은 키즈 풀빌라, \n레인보우 풀빌라.\n객실 내 놀이공간이 마련되어 있어 \n아이들도 안전하게 즐길 수 있습니다.\n\n전 객실 오션뷰로 어디에서나 바다를 마주하며,\n야외 수영장에서 물놀이를 즐기며 여유를 만끽하세요.\n실내 스파 시설이 준비되어 사계절 내내 누려보세요\n\n개별 바베큐 공간에서 프라이빗한 식사를 하며,\n가족 여행에 필요한 공간과 \n편의시설을 모두 갖춘 풀빌라\n아이와 어른 모두가 만족하는 \n거제의 특별한 휴식 공간입니다."
@@ -1761,8 +1714,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1774,13 +1727,14 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/761a3676-8f56-4ecc-8cbd-155f180008c5/reservation_hero/1772076513980-3do5r92hyem.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1814,7 +1768,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "property": {
         "images": [
@@ -1824,6 +1778,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1832,6 +1787,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1840,6 +1796,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1848,6 +1805,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1856,6 +1814,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1864,6 +1823,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1872,6 +1832,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1880,6 +1841,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1888,6 +1850,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1896,6 +1859,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1904,6 +1868,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1912,9 +1877,12 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "거제 레인보우키즈풀빌라",
+        "nameEn": "Geoje Rainbow Kids Pool Villa"
       },
       "roomtypes": [
         {
