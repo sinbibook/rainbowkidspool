@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-05-21T03:14:02.655849016Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-06-15T00:28:13.403962014Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "cdac4359-7866-4ee6-a41d-9ca07d571e25",
     "homepageId": "761a3676-8f56-4ecc-8cbd-155f180008c5"
@@ -14,7 +14,7 @@
     "address": "경남 거제시 하청면 칠천로 1035",
     "latitude": 35.0050676985564,
     "longitude": 128.652542714703,
-    "contactPhone": "010-4764-2685",
+    "contactPhone": "010-7704-2685",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -75,9 +75,9 @@
       {
         "id": "c7525586-d985-4fea-a47e-2dac32a52dc7",
         "name": "개별풀빌라",
-        "description": "프라이빗한 풀빌라를 즐겨보세요 ! ",
+        "description": "프라이빗한 풀빌라를 즐겨보세요 !",
         "usageGuide": "- 운영시간 : 15시~22시\n- 운영객실 : A101, A102, A103, B101, B102, B103, C101, C102, C103\n- 미온수 이용요금 : 70,000원(1박당/현장결제)\n- 길이4.0m X 폭1.7m X 깊이1.0m\n- 미온수 온도 : 34~35도\n\n[수영장이용안내]\n※ 반드시 샤워 후에 이용해 주세요\n※ 수영장 이용 시 꼭 수영복을 착용하시기 바랍니다\n※ 유아를 동반한 보호자께서는 각별한 주의 바랍니다.\n※ 썬텐크림이나 오일은 몸에 바른 채로 입수할 수 없습니다.\n※ 다이빙은 절대 금지합니다.\n※ 음주 후에 입수는 불가하며, 수영장 내에서 뛰거나 고성방가는 금지합니다.\n※ 수영장 및 펜션에서 고객의 부주의로 일어난 안전사고에 대해서는 책임지지 않습니다.",
-        "displayOrder": 88,
+        "displayOrder": 0,
         "images": [
           {
             "id": "a2a8c65d-df76-416f-88ab-beb5994706bb",
@@ -156,9 +156,9 @@
       {
         "id": "34483db2-a5af-4bff-931d-c7ce574fd155",
         "name": "월풀스파",
-        "description": "기분좋은 스파를 즐겨보세요 ! ",
+        "description": "기분좋은 스파를 즐겨보세요 !",
         "usageGuide": "- 운영시간 : 15시~22시\n- 운영객실 : A101, A103, A201, A202, B101, B103, C101, C103, C201, C202\n※ 사용가능한 입욕제는 현장에서 무료 제공\n※ 알갱이나 금가루 들어간 입욕제 절대금지",
-        "displayOrder": 89,
+        "displayOrder": 1,
         "images": [
           {
             "id": "6fc4f867-6a70-45c6-9f6d-eb0769d88089",
@@ -239,7 +239,7 @@
         "name": "개별 바베큐",
         "description": "프라이빗한 개별 바베큐를 즐겨보세요",
         "usageGuide": "- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A101, A102, A103, B101, B102, B103, C101, C102, C103\n\n[전기그릴]\n- 운영시간 : 15시~22시\n- 구성 : 바비큐그릴, 집게\n- 운영객실 : A201, A202, C201, C202",
-        "displayOrder": 90,
+        "displayOrder": 2,
         "images": [
           {
             "id": "b678a556-f0c3-4c22-bc87-8b04ec00831e",
@@ -337,7 +337,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
