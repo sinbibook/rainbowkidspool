@@ -70,7 +70,7 @@ footer {
 
 .footer-contact-info {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: minmax(0, 1fr) auto;
     grid-template-rows: auto auto;
     gap: 35px 20px;
     grid-template-areas:
@@ -80,6 +80,9 @@ footer {
 
 .footer-business-info {
     grid-area: business;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 40px;
 }
 
 .footer-info-line {
@@ -165,6 +168,11 @@ footer {
         padding-left: 0;
         align-self: stretch;
         width: 100%;
+    }
+
+    .footer-business-info {
+        flex-direction: column;
+        align-items: center;
     }
 
     .footer-contact-info {
